@@ -1,0 +1,71 @@
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.exe.config
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.exe
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.pdb
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.xml
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_mainmenu_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.Resources.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.exe
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.xml
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.pdb
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_orderdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_orderrecords_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_productdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_staffdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_customerdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_splashscreen_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.exe.config
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.exe
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.pdb
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.xml
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_customerdetails2_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_customerdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_mainmenu_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_orderdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_orderrecords_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_productdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_splashscreen_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_staffdetails2_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_staffdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.Resources.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.exe
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.xml
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.pdb
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_productdetails2_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_customerdetails2_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_productdetails2_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_staffdetails2_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.exe.config
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.exe
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.pdb
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\bin\Debug\prj_jmcomputersdnbhd_a176607.xml
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.vbprojAssemblyReference.cache
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_customerdetails2_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_customerdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_mainmenu_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_orderdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_orderrecords_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_productdetails2_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_productdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_splashscreen_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_staffdetails2_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_staffdetails_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.Resources.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.vbproj.GenerateResource.cache
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.exe
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.xml
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd - Copy\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.pdb
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_insertproduct_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_insertcustomer_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_insertstaff_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_updatecustomer_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_updateproduct_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_updatestaff_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_vieworders_a176607.resources
+C:\Users\user\Desktop\a176607_jmcomputersdnbhd\prj_jmcomputersdnbhd_a176607\obj\Debug\prj_jmcomputersdnbhd_a176607.frm_makeorder_a176607.resources

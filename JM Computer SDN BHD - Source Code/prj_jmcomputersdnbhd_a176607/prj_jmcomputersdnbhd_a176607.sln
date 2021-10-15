@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "prj_jmcomputersdnbhd_a176607", "prj_jmcomputersdnbhd_a176607.vbproj", "{FBFEBFD4-FB3B-48B7-957E-6C9E7C49C43E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_JM_Computer_SDN_BHD", "..\Setup_JM_Computer_SDN_BHD\Setup_JM_Computer_SDN_BHD.vdproj", "{97C475D1-997A-47C5-8D7F-B9791C540DC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBFEBFD4-FB3B-48B7-957E-6C9E7C49C43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBFEBFD4-FB3B-48B7-957E-6C9E7C49C43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBFEBFD4-FB3B-48B7-957E-6C9E7C49C43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBFEBFD4-FB3B-48B7-957E-6C9E7C49C43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97C475D1-997A-47C5-8D7F-B9791C540DC9}.Debug|Any CPU.ActiveCfg = Debug
+		{97C475D1-997A-47C5-8D7F-B9791C540DC9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52BA6521-6C1E-4A2A-B319-23A9BD674F29}
+	EndGlobalSection
+EndGlobal
