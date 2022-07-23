@@ -1,6 +1,6 @@
 # JM Computer SDN BHD
 
-University Semester 3 Project - JM Computer SDN BHD
+Relational Database Management System (RDBMS) Project - JM Computer SDN BHD
 
 [JM Computer SDN BHD Installer for Windows][JM Computer SDN BHD Installer]
 
