@@ -2,7 +2,7 @@
 
 University Semester 3 Project - JM Computer SDN BHD
 
-[JM Computer SDN BHD Installer for Wnidows][JM Computer SDN BHD EXE]
+[JM Computer SDN BHD Installer for Windows][JM Computer SDN BHD EXE]
 
 ---
 
